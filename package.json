@@ -1,0 +1,16 @@
+{
+  "name": "node.snapmagic.com",
+  "version": "1.0.0",
+  "description": "just testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dan Hersam",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
