@@ -37,4 +37,3 @@ git pull origin master
 npm install
 supervisorctl restart daemon-<daemon_id>:*
 ```
-
