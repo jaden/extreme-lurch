@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm install
+echo "Would run npm install here"
