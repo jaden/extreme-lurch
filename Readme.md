@@ -38,4 +38,4 @@ npm install
 supervisorctl restart daemon-<daemon_id>:*
 ```
 
-test 2
+test 3
